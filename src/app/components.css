@@ -413,6 +413,13 @@
 .proj__gh { display: inline-block; margin-top: 13px; font-size: 12px; color: var(--fg-dim); transition: color 0.2s; }
 .proj:hover .proj__gh { color: var(--safe); }
 
+/* ---- About: Let's talk CTA + closing contact line ---- */
+.about__talk { display: inline-flex; align-items: center; gap: 8px; }
+.about__talk svg { width: 17px; height: 17px; fill: currentColor; }
+.closing__talk { margin-top: 22px; color: var(--fg-dim); font-size: 14px; }
+.closing__talk a { color: var(--teal); font-weight: 600; transition: color 0.2s; }
+.closing__talk a:hover { color: var(--safe); }
+
 /* ---- Utilities ---- */
 .scan__fail { color: var(--danger); }
 .scan__pass { color: var(--safe); }

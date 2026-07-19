@@ -1,5 +1,6 @@
 import { closing } from "@/content/landing";
 import { CommandLine } from "@/components/CommandLine";
+import { site } from "@/lib/site";
 
 export function Closing() {
   return (
@@ -25,6 +26,9 @@ export function Closing() {
             {closing.secondary.label} →
           </a>
         </div>
+        <p className="closing__talk">
+          Building agents that need this? <a href={site.authorProfile.linkedin} target="_blank" rel="noopener noreferrer">Let’s talk →</a>
+        </p>
       </div>
     </section>
   );
