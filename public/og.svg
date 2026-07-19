@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#07080a"/>
+  <radialGradient id="g" cx="50%" cy="0%" r="70%">
+    <stop offset="0%" stop-color="#37f5a0" stop-opacity="0.16"/>
+    <stop offset="70%" stop-color="#07080a" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g font-family="ui-monospace, Menlo, monospace">
+    <text x="80" y="150" fill="#37f5a0" font-size="24" letter-spacing="4">// AI AGENT SECURITY RUNTIME</text>
+    <text x="76" y="270" fill="#e9ecef" font-size="82" font-weight="700" letter-spacing="-2">Find what gets through.</text>
+    <text x="76" y="360" fill="#e9ecef" font-size="82" font-weight="700" letter-spacing="-2">Stop it. <tspan fill="#37f5a0">Prove it.</tspan></text>
+    <text x="80" y="450" fill="#98a0a8" font-size="30">Measure against 5,000+ attacks · deterministic firewall · re-measure.</text>
+    <text x="80" y="560" fill="#37f5a0" font-size="26" letter-spacing="3">AI PROTECTOR</text>
+    <text x="330" y="560" fill="#626a72" font-size="26">control you can prove</text>
+  </g>
+  <rect x="0" y="626" width="1200" height="4" fill="#37f5a0"/>
+</svg>
